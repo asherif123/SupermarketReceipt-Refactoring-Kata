@@ -12,4 +12,4 @@ The starting position for this exercise contains the code for setting up the Tel
 ## Setup
 - make a venv
 - install requirements, e.g. `python -m pip install -r requirements.txt`
-- use pytest to run the tests
+- run the tests with `python -m pytest . --approvaltests-use-reporter='PythonNativeReporter'`
