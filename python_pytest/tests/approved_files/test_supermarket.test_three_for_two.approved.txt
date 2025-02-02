@@ -1,0 +1,7 @@
+toothbrush                          2.97
+  0.99 * 3
+apples                              4.97
+  1.99 * 2.500
+3 for 2 (toothbrush)               -0.99
+
+Total:                              6.96
