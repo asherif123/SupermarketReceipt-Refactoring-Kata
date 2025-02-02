@@ -1,5 +1,5 @@
-from model_objects import Offer
-from receipt import Receipt
+from src.model_objects import Offer
+from src.receipt import Receipt
 
 
 class Teller:
