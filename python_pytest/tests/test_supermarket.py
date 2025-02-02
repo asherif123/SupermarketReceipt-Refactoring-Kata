@@ -1,7 +1,6 @@
 import pytest
 
 from src.model_objects import SpecialOfferType
-from src.shopping_cart import ShoppingCart
 from approvaltests.approvals import verify
 from src.receipt_printer import ReceiptPrinter
 
